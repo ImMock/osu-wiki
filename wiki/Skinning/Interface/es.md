@@ -452,84 +452,84 @@ _Véase también: [Compensación de sonido globald](/wiki/Offset_Wizard)._
 |:------------:|:-------------------------:|
 | ![No][false] | ![No][false] (Ver notas)  |
 
-**Notes:**
+**Notas:**
 
-- Beatmap skinnable status is suspected to be a bug.
-- Tint colour depends on use:
-  - pause screen:
-    - all versions: tinted blue
-  - exiting breaks:
-    - v1.0: tinted white
-    - v2.0+: tinted red
-
----
-
-_`arrow-generic.png`_ (transparent; not included)
-
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
-
-**Notes:**
-
-- Beatmap skinnable status is suspected to be a bug.
-- This overrides `play-warningarrow.png` (but not for Stable (Fallback) stream)
-- Usage is unknown, but it is believed that this is used for Multiplayer tag gameplay (the arrow that points for the current player's turn)
-- This element is not tinted nor coloured, this means you can add as much colour you like.
+- El ser modificable en un mapa puede que sea un error.
+- El color depende de su uso:
+  - Pantalla de pausa:
+    - Todas las versiones: Tteñido de azul
+  - Salida de descanzo:
+    - v1.0: Teñido de blanco
+    - v2.0+: Teñido de rojo
 
 ---
 
-_`arrow-pause.png`_ (transparent; not included)
+_`arrow-generic.png`_ (transparente; no incluido)
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false] (Ver notas)  |
 
-**Notes:**
+**Notas:**
 
-- Beatmap skinnable status is suspected to be a bug.
-- Overrides `play-warningarrow.png` (but not for Stable (Fallback) stream).
-- This is used in the pause and fail screens.
-- This element is not tinted nor coloured, this means you can add as much colour you like.
+- El ser modificable en un mapa puede que sea un error.
+- Esto anula `play-warningarrow.png` (pero no para la version _Stable (Fallback)_).
+- El uso es desconocido, pero está creido que esto es usado para el Multijugador cooperativo (la flecha que señala el turno del jugador)
+- Este elemento no es teñido ni coloreado, esto quiere decir que puedes añadir todo el color como se te plazca.
 
 ---
 
-_`arrow-warning.png`_ (transparent; not included)
+_`arrow-pause.png`_ (transparente; no incluido)
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false] (Ver notas)  |
 
-**Notes:**
+**Notas:**
 
-- Beatmap skinnable status is suspected to be a bug.
-- Overrides `play-warningarrow.png` (but not for Stable (Fallback) stream).
-- used for the end break warning
-- this element is not tinted nor coloured, this means you can add as much colour you like.
+- El ser modificable en un mapa puede que sea un error.
+- Esto anula `play-warningarrow.png` (pero no para la version _Stable (Fallback)_).
+- Esto es usado en las pantallas de pausa y de fallar.
+- Este elemento no es teñido ni coloreado, esto quiere decir que puedes añadir todo el color como se te plazca.
+
+---
+
+_`arrow-warning.png`_ (transparente; no incluido)
+
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false] (Ver notas)  |
+
+**Notas:**
+
+- El ser modificable en un mapa puede que sea un error.
+- Esto anula `play-warningarrow.png` (pero no para la version _Stable (Fallback)_).
+- Usado para el final del descanso.
+- Este elemento no es teñido ni coloreado, esto quiere decir que puedes añadir todo el color como se te plazca.
 
 ---
 
 ![](img/masking-border.png "masking-border.png")
 
-| Animatable   | Beatmap Skinnable        |
-|:------------:|:------------------------:|
-| ![No][false] | ![No][false] (see notes) |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false] (Ver notas)  |
 
-**Notes:**
+**Notas:**
 
-- Beatmap skinnable status is suspected to be a bug.
-- This is primarily used when playing with 4:3 storyboards on widescreen.
-- While beatmapping, disable `Widescreen support` in [song setup](/wiki/song_setup) for this to appear.
-- This element is stretched to fit the needed area.
-- The right pillar is flipped horizontally.
+- El ser modificable en un mapa puede que sea un error.
+- Esto es principalmente usado cuando se juega 4:3 en pantalla panorámica.
+- Mientras modificas un _beatmap_, desactiva la opción `Widescreen support` en la [configuración de la canción](/wiki/song_setup)
+- Este elemento es estirado para cumplir el ancho necesario.
+- El pilar de la derecha es girada horizontalmente
 
 ---
 
 ![](img/menu-osu.png "menu-osu.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
 **Note:**
 
