@@ -81,20 +81,19 @@ Las imágenes HD tienen tamaños de dimensiones dobles.
 - Ejemplo: La imagen `hitcircle.png` tiene su tamaño de dimensión de **128x128 pixeles**.
   - Su imagen HD, `hitcircle.png@2x`, tiene su tamaño de dimensión de **256x256 pixeles**.
   
-  Cada imagen tiene su equivalente HD, incluso todos los fotorgramas en una animación pueden tener su equivalente HD.
-  Como resultado, el tamaño del archivo o de la carpeta aumentará debido a tener más imagenes de lo normal.
+Cada imagen tiene su equivalente HD, incluso todos los fotorgramas en una animación pueden tener su equivalente HD.
+Como resultado, el tamaño del archivo o de la carpeta aumentará debido a tener más imagenes de lo normal.
   
-  Todas las imágenes HD también podrán ser más grandes en tamaño de archivo debido al hecho de que el tamaño del lienzo usado es 4 veces más grande comparado con la imagen normal.
-  Hay esencialmente dos modos de resoluciones que _osu!_ está usando.
-  El primer modo es **LowResolution** mientras el segundo modo es **HighResolution**.
+Todas las imágenes HD también podrán ser más grandes en tamaño de archivo debido al hecho de que el tamaño del lienzo usado es 4 veces más grande comparado con la imagen normal.
+Hay esencialmente dos modos de resoluciones que _osu!_ está usando.
+El primer modo es **LowResolution** mientras el segundo modo es **HighResolution**.
   
-  - El modo *LowResolution* usa las imágenes normales e ignora las imágenes HD **(SD-resolution skin)**.
-  - El modo *HighResolution* prefiere las imágenes HD y usa las imágenes normales como apoyo si la imagen HD no está disponible **(HD-resolution skin)**.
+- El modo *LowResolution* usa las imágenes normales e ignora las imágenes HD **(SD-resolution skin)**.
+- El modo *HighResolution* prefiere las imágenes HD y usa las imágenes normales como apoyo si la imagen HD no está disponible **(HD-resolution skin)**.
   
   ### osu!supporter
-  
-  Actualmente, solo 2 imágenes y 2 sonidos pueden ser modificados si el usuario es un [osu!supporter](/wiki/osu!supporter/); de otra manera, se utilizará el predeterminado.
-  Estos elementos de _"Skinning"_ son los siguientes.
+Actualmente, solo 2 imágenes y 2 sonidos pueden ser modificados si el usuario es un [osu!supporter](/wiki/osu!supporter/); de otra manera, se utilizará el predeterminado.
+Estos elementos de _"Skinning"_ son los siguientes.
   
 - `menu-background.jpg`
 - `welcome_text.png`
