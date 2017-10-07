@@ -86,6 +86,7 @@ Como resultado, el tamaño del archivo o de la carpeta aumentará debido a tener
   
 Todas las imágenes HD también podrán ser más grandes en tamaño de archivo debido al hecho de que el tamaño del lienzo usado es 4 veces más grande comparado con la imagen normal.
 Hay esencialmente dos modos de resoluciones que _osu!_ está usando.
+Cada uno de ellos prefiere un conjunto de imágenes.
 El primer modo es **LowResolution** mientras el segundo modo es **HighResolution**.
   
 - El modo *LowResolution* usa las imágenes normales e ignora las imágenes HD **(SD-resolution skin)**.
