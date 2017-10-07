@@ -46,7 +46,7 @@ La interfaz del usuario y los sonidos compartidos por la mayoría de los modos d
 4. Ciertos elementos **apuntan a una dirección concreta**
    - Algunos elementos tienen un estándar en cuanto a qué dirección deben apuntar de manera correcta cuando el osu!client lo utiliza.
 
-### _"Overlays"_
+### Overlays
 
 - Los elementos _"overlay"_ siempre cubrirán la imagen de un elemento y **no serán coloreados o teñidos**.
 
