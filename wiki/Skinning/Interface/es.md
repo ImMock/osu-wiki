@@ -5,7 +5,7 @@
 
 _Véase también: [Tutorial de la Interfaz en Skins](/wiki/Skinning_Interface_Tutorial) e [Interfaz](/Interface)_
 
-Los elementos de la interfaz en el _"Skinning"_ son usados en multiples modos o partes de la interfaz del osu!client del usuario.
+Los elementos de la interfaz en el _"Skinning"_ son usados en múltiples modos o partes de la interfaz del osu!client del usuario.
 
 ## Menú Principal
 
@@ -46,7 +46,7 @@ _`menu-snow.png`_ (Transparente; no incluido; mira los iconos pequeños de los m
 
 - Si no está modificado, el icono pequeño del modo de juego actual será usado en su lugar.
 - Activable en las [opciones](/wiki/options).
-  - Esta opción podria ser forzada a estár encendida en invierno.
+  - Esta opción podría ser forzada a estar encendida en invierno.
 
 ## Botón
 
@@ -91,9 +91,9 @@ Puesto que el botón contiene 3 partes, lo mejor es mantener la misma altura!
 		
 **Notas:**
 		
-- Por defecto, este elemento rotará y se expandirá al click.
+- Por defecto, este elemento rotará y se expandirá al clic.
 - Comandos de [skin.ini](/wiki/skin.ini) :
-  - Para desactivar la expanción del cursor al click, cambia `CursorExpand` a `0`
+  - Para desactivar la expansión del cursor al clic, cambia `CursorExpand` a `0`
   - Para desactivar la rotación del cursor, cambia `CursorRotate` a `0`.
 
 ---
@@ -383,7 +383,7 @@ La siguiente tabla es para todos los iconos de modificadores de juego.
 **Notas:**
 
 - Este modificador solamente es usado para [osu!standard](/wiki/osu!standard).
-- Este modificador hará que el cursor se mueva automaticamente mientras que el jugador solo necesita hacer clic.
+- Este modificador hará que el cursor se mueva automáticamente mientras que el jugador solo necesita hacer clic.
 
 ---
 
@@ -406,7 +406,7 @@ La siguiente tabla es para todos los iconos de modificadores de juego.
 
 ## Compensación de sonido global
 
-_Véase también: [Compensación de sonido globald](/wiki/Offset_Wizard)._
+_Véase también: [Compensación de sonido global](/wiki/Offset_Wizard)._
 
 ---
 
@@ -457,8 +457,8 @@ _Véase también: [Compensación de sonido globald](/wiki/Offset_Wizard)._
 - El ser modificable en un mapa puede que sea un error.
 - El color depende de su uso:
   - Pantalla de pausa:
-    - Todas las versiones: Tteñido de azul
-  - Salida de descanzo:
+    - Todas las versiones: Teñido de azul
+  - Salida de descanso:
     - v1.0: Teñido de blanco
     - v2.0+: Teñido de rojo
 
@@ -473,8 +473,8 @@ _`arrow-generic.png`_ (transparente; no incluido)
 **Notas:**
 
 - El ser modificable en un mapa puede que sea un error.
-- Esto anula `play-warningarrow.png` (pero no para la version _Stable (Fallback)_).
-- El uso es desconocido, pero está creido que esto es usado para el Multijugador cooperativo (la flecha que señala el turno del jugador)
+- Esto anula `play-warningarrow.png` (pero no para la versión _Stable (Fallback)_).
+- El uso es desconocido, pero está creído que esto es usado para el Multijugador cooperativo (la flecha que señala el turno del jugador)
 - Este elemento no es teñido ni coloreado, esto quiere decir que puedes añadir todo el color como se te plazca.
 
 ---
@@ -488,7 +488,7 @@ _`arrow-pause.png`_ (transparente; no incluido)
 **Notas:**
 
 - El ser modificable en un mapa puede que sea un error.
-- Esto anula `play-warningarrow.png` (pero no para la version _Stable (Fallback)_).
+- Esto anula `play-warningarrow.png` (pero no para la versión _Stable (Fallback)_).
 - Esto es usado en las pantallas de pausa y de fallar.
 - Este elemento no es teñido ni coloreado, esto quiere decir que puedes añadir todo el color como se te plazca.
 
@@ -503,7 +503,7 @@ _`arrow-warning.png`_ (transparente; no incluido)
 **Notas:**
 
 - El ser modificable en un mapa puede que sea un error.
-- Esto anula `play-warningarrow.png` (pero no para la version _Stable (Fallback)_).
+- Esto anula `play-warningarrow.png` (pero no para la versión _Stable (Fallback)_).
 - Usado para el final del descanso.
 - Este elemento no es teñido ni coloreado, esto quiere decir que puedes añadir todo el color como se te plazca.
 
@@ -569,14 +569,14 @@ _`arrow-warning.png`_ (transparente; no incluido)
 
 **Nota:**
 
-- Este elemento es visto cuando el jugador tiene poca cantidad de _HP_, maás del 50%, durante un descanso suficientemente largo.
+- Este elemento es visto cuando el jugador tiene poca cantidad de _HP_, más del 50%, durante un descanso suficientemente largo.
 
 ### Countdown _(Cuenta regresiva)_
 
 Si la versión de la skin es:
 
-- 1.0, la cuenta atras será usada como estilo segmentado (donde el 3 esstá a la izquierda, el 2 a la derecha y el 1 está en el centro).
-- 2.0+, la cuenta atras será usada como estilo centrado (donde todos los numeros de la cuenta están en el centro).
+- 1.0, la cuenta atrás será usada como estilo segmentado (donde el 3 está a la izquierda, el 2 a la derecha y el 1 está en el centro).
+- 2.0+, la cuenta atrás será usada como estilo centrado (donde todos los números de la cuenta están en el centro).
 
 La siguiente tabla es para todos los elementos de la cuenta regresiva.
 
@@ -598,7 +598,7 @@ La siguiente tabla es para todos los elementos de la cuenta regresiva.
 - Esto debería decir "1" o "3".
 
 - Nombre de la animación: `scorebar-colour-#.png`; remplaza `#` con el conteo indicado.
-- Teñido de negro sobre tiempo cuando está cerca de una zona critica y teñido de rojo en la zona critica.
+- Teñido de negro sobre tiempo cuando está cerca de una zona crítica y teñido de rojo en la zona critica.
 - Este elemento no tiene restricción de tamaño.
 - Cuando es usado en [osu!mania](/wiki/osu!mania), este elemento es rotado 90 grados en dirección contraria a las agujas del reloj y es colocado en la esquina inferior derecha.
 
@@ -683,7 +683,7 @@ La siguiente tabla es para todos los elementos de _hit burst_.
 **Notas:**
 
 - Esto es usado en [osu!standard](/wiki/osu!standard) y en [osu!catch](/wiki/osu!catch).
-- Actibable en las [options](/wiki/options).
+- Activable en las [options](/wiki/options).
 - Esto es rotado 90 grados en dirección a las agujas del reloj.
 - Estirado 1.05x en el juego.
 
@@ -698,7 +698,7 @@ La siguiente tabla es para todos los elementos de _hit burst_.
 **Notas:**
 
 - Esto es usado en [osu!standard](/wiki/osu!standard) y en [osu!catch](/wiki/osu!catch).
-- Actibable en las [options](/wiki/options).
+- Activable en las [options](/wiki/options).
 - Se expande cuando la tecla correspondiente es presionada.
 
 ### Pantalla de Pausa
@@ -760,7 +760,7 @@ _`fail-background.png`_ (transparente; no incluido)
 
 **Notas:**
 
-- Este elemento aparece en la pantalla de clasificación (despues de terminar un mapa, o ver una puntuación).
+- Este elemento aparece en la pantalla de clasificación (después de terminar un mapa, o ver una puntuación).
 - Esto anula `ranking-replay.png` en las skins de versión 2.0+.
 
 ---
@@ -773,7 +773,7 @@ _`fail-background.png`_ (transparente; no incluido)
 
 **Notas:**
 
-- Este elemento aparece en la pantalla de clasificación despues de terminar un mapa, o en la pantalla de pausa y en la de fallo.
+- Este elemento aparece en la pantalla de clasificación después de terminar un mapa, o en la pantalla de pausa y en la de fallo.
 - Esto anula `ranking-retry.png` en las skins de versión 2.0+.
 
 
@@ -801,7 +801,7 @@ _`fail-background.png`_ (transparente; no incluido)
 **Notas:**
 
 - Nombre de la animación: `scorebar-colour-#.png`; remplaza `#` con el conteo indicado.
-- Teñido de negro sobre tiempo cuando está cerca de una zona critica y teñido de rojo en la zona critica.
+- Teñido de negro sobre tiempo cuando está cerca de una zona crítica y teñido de rojo en la zona critica.
 - Este elemento no tiene restricción de tamaño.
 - Cuando es usado en [osu!mania](/wiki/osu!mania), este elemento es rotado 90 grados en dirección contraria a las agujas del reloj y es colocado en la esquina inferior derecha.
 
@@ -862,7 +862,7 @@ _`fail-background.png`_ (transparente; no incluido)
 
 ### Números de Puntuación
 
-Por defecto, todos los números de puntuación tambien son usados para los números de combo.
+Por defecto, todos los números de puntuación también son usados para los números de combo.
 
 La siguiente tabla es para todos los elementos de los números de puntuación.
 
@@ -916,7 +916,7 @@ La siguiente tabla es para todos los elementos de los números de puntuación.
 
 **Notas:**
 
-- Por defecto, esto tambien es parte de los números de combo.
+- Por defecto, esto también es parte de los números de combo.
 - Esto es para la visualización de precisión.
 - El uso de este elemento es dependiente de tu idioma seleccionado.
 
@@ -926,7 +926,7 @@ La siguiente tabla es para todos los elementos de los números de puntuación.
 
 **Notas:**
 
-- Por defecto, esto tambien es parte de los números de combo.
+- Por defecto, esto también es parte de los números de combo.
 - Esto es para la visualización de precisión.
 - El uso de este elemento es dependiente de tu idioma seleccionado.
 
@@ -936,7 +936,7 @@ La siguiente tabla es para todos los elementos de los números de puntuación.
 
 **Notas:**
 
-- Por defecto, esto tambien es parte de los números de combo.
+- Por defecto, esto también es parte de los números de combo.
 - Esto es para la precisión.
 
 ---
@@ -945,7 +945,7 @@ La siguiente tabla es para todos los elementos de los números de puntuación.
 
 **Notas:**
 
-- Por defecto, esto tambien es parte de los números de combo.
+- Por defecto, esto también es parte de los números de combo.
 - Esto es para el combo, solo usado en [osu!standard](/wiki/osu!standard).
 
 ## Grados de Clasificación
@@ -967,7 +967,7 @@ La siguiente tabla es para todos los elementos de los grados de clasificación c
 ---
 
 - Esto es usado en [osu!standard](/wiki/osu!standard) y [osu!catch](/wiki/osu!catch).
-- Actibable en las [opciones](/wiki/options).
+- Activable en las [opciones](/wiki/options).
 - Se encoje cuando la tecla es presionada.
 
 ---
@@ -1032,7 +1032,7 @@ La siguiente tabla es para todos los elementos de los grados de clasificación c
 
 ## Pantalla de Clasificación
 
-Después de la version 2.0+, la mayoria de estos elementos se realinearon.
+Después de la versión 2.0+, la mayoría de estos elementos se realinearon.
 
 ---
 
@@ -1056,7 +1056,7 @@ Después de la version 2.0+, la mayoria de estos elementos se realinearon.
 
 **Nota:**
 
-- Este es el fondo de la grafica del rendimiento del jugador sobre el tiempo (el rendimiento es la cantidad de la barra de vida).
+- Este es el fondo de la gráfica del rendimiento del jugador sobre el tiempo (el rendimiento es la cantidad de la barra de vida).
 
 ---
 
@@ -1148,7 +1148,7 @@ _`ranking-retry.png`_ (transparente; no incluido)
 
 ## Selección de canciones
 
-_`menu-back.png`_ (transparente; no includido; ver notas)
+_`menu-back.png`_ (transparente; no incluido; ver notas)
 
 | Animable     | Modificable en un Beatmap |
 |:------------:|:-------------------------:|
@@ -1157,7 +1157,7 @@ _`menu-back.png`_ (transparente; no includido; ver notas)
 **Notas:**
 
 - Nombre de la animación: `menu-back-#.png`; remplaza `#` con el conteo indicado.
-- _osu!_ tiene un nuevo botón de "atras"; sin embargo; no es modificable!
+- _osu!_ tiene un nuevo botón de "atrás"; sin embargo; no es modificable!
   - Si este elemento es modificado, anulará en todos lados el nuevo botón; excepto para la barra lateral de [opciones](/wiki/options).
 
 ---
@@ -1170,7 +1170,7 @@ _`menu-back.png`_ (transparente; no includido; ver notas)
 
 **Notas:**
 
-- Skins con versiones 2.2+ soportan miniaturas (actibables en las [opciones](/wiki/options)) para la selección de canciones.
+- Skins con versiones 2.2+ soportan miniaturas (activables en las [opciones](/wiki/options)) para la selección de canciones.
 - Este elemento es usado en varios lugares:
   - tabla de clasificación en la selección de canción
   - botón para la dificultad de un mapa en la selección de canciones
@@ -1268,7 +1268,7 @@ Los elementos modificables en esta sección usan 3 sufijos distintos describiend
 - _sin sufijo_: Estos aparecen en el centro de la pantalla cuando estás en la selección de canciones (mostrando el modo de juego seleccionado).
 - `-med`: Estos aparecen dentro del recuadro de selección de modos, cuando seleccionas el modo de juego.
 - `-small`: Estos aparecen dentro del botón del recuadro de selección de modos (mostrando el modo de juego seleccionado)
-  Estas imagenes también sn usadas como nieve por defecto, si una skin no incluye la imagen `snow.png` (la que se usa es la del modo de juego actualmente seleccionado)
+  Estas imágenes también son usadas como nieve por defecto, si una skin no incluye la imagen `snow.png` (la que se usa es la del modo de juego actualmente seleccionado)
 
 ---
 
@@ -1382,7 +1382,7 @@ Los elementos de la interfaz que ya no están en uso, descansando pacíficamente
 
 **Nota:**
 
-- Este elemento fué removido y reemplazado con `menu-background.jpg`.
+- Este elemento fue removido y reemplazado con `menu-background.jpg`.
 
 ---
 
@@ -1394,7 +1394,7 @@ Los elementos de la interfaz que ya no están en uso, descansando pacíficamente
 
 **Notas:**
 
-- Este elemento fué removido por una razón desconocida.
+- Este elemento fue removido por una razón desconocida.
 - Este botón abre el menú de opciones de un beatmap de manera individual por beatmap.
   Tu aun puedes accesar este menu haciendo clic derecho en un beatmap durante la selección de canciones.
 
@@ -1408,4 +1408,4 @@ Los elementos de la interfaz que ya no están en uso, descansando pacíficamente
 
 **Notas:**
 
-- Este elemento fué removido con `selection-selectoptions.png`
+- Este elemento fue removido con `selection-selectoptions.png`
