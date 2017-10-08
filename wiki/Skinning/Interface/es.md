@@ -521,7 +521,7 @@ _`arrow-warning.png`_ (transparente; no incluido)
 - Esto es principalmente usado cuando se juega 4:3 en pantalla panorámica.
 - Mientras modificas un _beatmap_, desactiva la opción `Widescreen support` en la [configuración de la canción](/wiki/song_setup)
 - Este elemento es estirado para cumplir el ancho necesario.
-- El pilar de la derecha es girada horizontalmente
+- La sección vertical de la derecha es girada horizontalmente
 
 ---
 
@@ -533,116 +533,116 @@ _`arrow-warning.png`_ (transparente; no incluido)
 
 **Note:**
 
-- This element is seen at the end of a failed beatmap replay or when spectating (during buffering, pausing, or failing).
+- Este elemento es visto al final de un mapa fallado, repetición o cuando estás en modo espectador (durante la carga, pausa o fallo).
 
 ---
 
 ![](img/multi-skipped.png "multi-skipped.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is used in multiplayer games, seen next to the player's score (on the sides) when the player votes to skip the intro of a map.
+- Esto es usado en partidas multijugador, visto a un lado de la puntuación del jugador (en los lados) cuando el jugador vota para saltar la introducción de un mapa.
 
 ---
 
 ![](img/section-fail.png "section-fail.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Note:**
+**Nota:**
 
-- This element is seen when the player has a low amount of HP, about less than 50%, during a long enough break.
+- Este elemento es visto cuando el jugador tiene poca cantidad de _HP_, menos del 50%, durante un descanso suficientemente largo.
 
 ---
 
 ![](img/section-pass.png "section-pass.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Note:**
+**Nota:**
 
-- This element is seen when the player has a high amount of HP, about more than 50%, during a long enough break.
+- Este elemento es visto cuando el jugador tiene poca cantidad de _HP_, maás del 50%, durante un descanso suficientemente largo.
 
-### Countdown
+### Countdown _(Cuenta regresiva)_
 
-If the skin version is:
+Si la versión de la skin es:
 
-- 1.0, the countdown will use a segmented style (where 3 is on the left, 2 is on the right, and 1 is in the centre).
-- 2.0+, the countdown will use a centred style (where all the count numbers are in the centre).
+- 1.0, la cuenta atras será usada como estilo segmentado (donde el 3 esstá a la izquierda, el 2 a la derecha y el 1 está en el centro).
+- 2.0+, la cuenta atras será usada como estilo centrado (donde todos los numeros de la cuenta están en el centro).
 
-The following table is for all countdown elements.
+La siguiente tabla es para todos los elementos de la cuenta regresiva.
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
+- Este elemento no tiene restricción de tamaño.
+- Cuando es usado en [osu!mania](/wiki/osu!mania), este elemento es rotado 90 grados en dirección contraria a las agujas del reloj y es colocado en la esquina inferior derecha.
 
 ---
 
 ![](img/count1.png "count1.png")
 
-**Note:**
+**Nota:**
 
-- This should either say "1" or "3".
+- Esto debería decir "1" o "3".
 
-- Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
-- Tinted black over time when near critical zone and tinted red in the critical zone.
-- This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
+- Nombre de la animación: `scorebar-colour-#.png`; remplaza `#` con el conteo indicado.
+- Teñido de negro sobre tiempo cuando está cerca de una zona critica y teñido de rojo en la zona critica.
+- Este elemento no tiene restricción de tamaño.
+- Cuando es usado en [osu!mania](/wiki/osu!mania), este elemento es rotado 90 grados en dirección contraria a las agujas del reloj y es colocado en la esquina inferior derecha.
 
 ---
 
 ![](img/count2.png "count2.png")
 
-**Note:**
+**Nota:**
 
-- This should say "2".
+- Esto debería decir "2".
 
 ---
 
 ![](img/count3.png "count3.png")
 
-**Note:**
+**Nota:**
 
-- This should either say "3" or "1".
+- Esto debería decir "3" o "1".
 
 ---
 
 ![](img/go.png "go.png")
 
-**Note:**
+**Nota:**
 
-- This should say "Go!".
+- Esto debería decir "Go".
 
 ---
 
 ![](img/ready.png "ready.png")
 
-**Note:**
+**Nota:**
 
-- This should say "Are You Ready?" or "Ready?".
+- Esto debería decir "¿Estás listo?" o "¿Listo?".
 
 ### Hit Bursts
 
-These hit bursts are used in osu!standard and in [multi](/wiki/multi).
+Estos _hit bursts_ son usados en osu!standar y en [multi](/wiki/multi).
 
-The following table is for all hit bursts.
+La siguiente tabla es para todos los elementos de _hit burst_.
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
 ---
 
@@ -676,132 +676,133 @@ The following table is for all hit bursts.
 
 ![](img/inputoverlay-background.png "inputoverlay-background.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
-- Toggleable in the [options](/wiki/options).
-- This is rotated 90 degrees clockwise.
-- Stretched by 1.05x ingame.
+- Esto es usado en [osu!standard](/wiki/osu!standard) y en [osu!catch](/wiki/osu!catch).
+- Actibable en las [options](/wiki/options).
+- Esto es rotado 90 grados en dirección a las agujas del reloj.
+- Estirado 1.05x en el juego.
 
 ---
 
 ![](img/inputoverlay-key.png "inputoverlay-key.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
-- Toggleable in the [options](/wiki/options).
-- Expands whenever the keys is pressed.
+- Esto es usado en [osu!standard](/wiki/osu!standard) y en [osu!catch](/wiki/osu!catch).
+- Actibable en las [options](/wiki/options).
+- Se expande cuando la tecla correspondiente es presionada.
 
-### Pause Screen
+### Pantalla de Pausa
 
-_`pause-overlay.png`_ (transparent; not included)
+_`pause-overlay.png`_ (transparente; no incluido)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- If this is not skinned, the background of the map will be dimmed and used by default.
-- This element is will **not** strech to fit.
-- Full image height is 768px.
+- Si esto no está modificado, el fondo del mapa será difuminado y usado por defecto.
+- Este elemento **no** será estirado para caber.
+- La altura total de la imagen es de 768px.
 
 ---
 
-_`fail-background.png`_ (transparent; not included)
+_`fail-background.png`_ (transparente; no incluido)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- If this is not skinned, the background of the map will be dimmed and used by default.
-- This element will strech to fit.
+- Si esto no está modificado, el fondo del mapa será difuminado y usado por defecto.
+- Este elemento será estirado para caber.
 
 ---
 
 ![](img/pause-back.png "pause-back.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Note:**
+**Nota:**
 
-- This element appears in the fail and pause screens.
+- Este elemento aparece en la pantalla de falla y en la de pausa.
 
 ---
 
 ![](img/pause-continue.png "pause-continue.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-- This element appears in the pause screen.
+- Este elemento aparece en la pantalla de pausa.
 
 ---
 
 ![](img/pause-replay.png "pause-replay.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- This element appears on the ranking screen (after finishing a map or viewing a score).
-- This overrides `ranking-replay.png` in skin versions 2.0+.
+- Este elemento aparece en la pantalla de clasificación (despues de terminar un mapa, o ver una puntuación).
+- Esto anula `ranking-replay.png` en las skins de versión 2.0+.
 
 ---
 
 ![](img/pause-retry.png "pause-retry.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- This element appears on the ranking screen after finishing a map and on the pause and fail screens.
-- This overrides `ranking-retry.png` in v2.0+.
+- Este elemento aparece en la pantalla de clasificación despues de terminar un mapa, o en la pantalla de pausa y en la de fallo.
+- Esto anula `ranking-retry.png` en las skins de versión 2.0+.
+
 
 ### Scorebar
 
 ![](img/scorebar-bg.png "scorebar-bg.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- This element has no size restrictions.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90deg anti-clockwise and is placed at the bottom right of stage.
+- Este elemento no tiene restricción de tamaño.
+- Cuando es usado en [osu!mania](/wiki/osu!mania), este elemento es rotado 90 grados en dirección contraria a las agujas del reloj y es colocado en la esquina inferior derecha.
 
 ---
 
 ![](img/scorebar-colour.png "scorebar-colour.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![Yes][true] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
 - Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
 - Tinted black over time when near critical zone and tinted red in the critical zone.
-- This element has no size restrictions.
+- Este elemento no tiene restricción de tamaño.
 - When used in [osu!mania](/wiki/osu!mania), this element is rotated 90deg anti-clockwise and is placed at the bottom right of stage.
 
 ---
