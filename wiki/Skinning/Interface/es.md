@@ -800,75 +800,75 @@ _`fail-background.png`_ (transparente; no incluido)
 
 **Notas:**
 
-- Animation name: `scorebar-colour-#.png`; replace `#` with indexed count (start frame count at zero).
-- Tinted black over time when near critical zone and tinted red in the critical zone.
+- Nombre de la animación: `scorebar-colour-#.png`; remplaza `#` con el conteo indicado.
+- Teñido de negro sobre tiempo cuando está cerca de una zona critica y teñido de rojo en la zona critica.
 - Este elemento no tiene restricción de tamaño.
-- When used in [osu!mania](/wiki/osu!mania), this element is rotated 90deg anti-clockwise and is placed at the bottom right of stage.
+- Cuando es usado en [osu!mania](/wiki/osu!mania), este elemento es rotado 90 grados en dirección contraria a las agujas del reloj y es colocado en la esquina inferior derecha.
 
 ---
 
 ![](img/scorebar-ki.png "scorebar-ki.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- For skin versions 2.0+, `scorebar-marker.png` has higher priority.
-- This element represents the "passing" zone.
-- This element is not used in [osu!mania](/wiki/osu!mania).
+- Para skins de versiones 2.0+, `scorebar-marker.png` tiene una mayor prioridad.
+- Este elemento representa la zona de "paso".
+- Este elemento no es usado en [osu!mania](/wiki/osu!mania).
 
 ---
 
 ![](img/scorebar-kidanger.png "scorebar-kidanger.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- For skin versions 2.0+, `scorebar-marker.png` has higher priority.
-- this element represents the "warning" zone
-- This element is not used in [osu!mania](/wiki/osu!mania)
+- Para skins de versiones 2.0+, `scorebar-marker.png` tiene una mayor prioridad.
+- Este elemento representa la zona de "peligro".
+- Este elemento no es usado en [osu!mania](/wiki/osu!mania).
 
 ---
 
 ![](img/scorebar-kidanger2.png "scorebar-kidanger2.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- For skin versions 2.0+, `scorebar-marker.png` has higher priority.
-- This element represents the "critical" zone.
-- This element is not used in [osu!mania](/wiki/osu!mania)
+- Para skins de versiones 2.0+, `scorebar-marker.png` tiene una mayor prioridad.
+- Este elemento representa la zona "crítica".
+- Este elemento no es usado en [osu!mania](/wiki/osu!mania).
 
 ---
 
 ![](img/scorebar-marker.png "scorebar-marker.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-- This element has higher priority.
-  - If skinned, this element overrides the `scorebar-ki.png`, `scorebar-kidanger.png`, and `scorebar-kidanger2.png` elements.
-- The marker darkens if the player reaches the critical zone.
-- This element is not used in [osu!mania](/wiki/osu!mania).
+- Este elemento tiene una mayor prioridad.
+  - Si es modificado, este elemento anula los elementos `scorebar-ki.png`, `scorebar-kidanger.png`, y `scorebar-kidanger2.png`.
+- El marcador se oscurece si el jugador alcanza la zona crítica.
+- Este elemento no es usado en [osu!mania](/wiki/osu!mania).
 
-### Score numbers
+### Números de Puntuación
 
-By default, all score numbers are also used for the combo numbers.
+Por defecto, todos los números de puntuación tambien son usados para los números de combo.
 
-The following table is for all score number elements.
+La siguiente tabla es para todos los elementos de los números de puntuación.
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
 ---
 
@@ -914,61 +914,61 @@ The following table is for all score number elements.
 
 ![](img/score-comma.png "score-comma.png")
 
-**Notes:**
+**Notas:**
 
-- By default, this is also a part of the combo numbers.
-- This is for the accuracy display.
-- The usage of this element is dependent of your selected language.
+- Por defecto, esto tambien es parte de los números de combo.
+- Esto es para la visualización de precisión.
+- El uso de este elemento es dependiente de tu idioma seleccionado.
 
 ---
 
 ![](img/score-dot.png "score-dot.png")
 
-**Notes:**
+**Notas:**
 
-- By default, this is also a part of the combo numbers.
-- This is for the accuracy diaplay.
-- The usage of this element is dependent of your selected language.
+- Por defecto, esto tambien es parte de los números de combo.
+- Esto es para la visualización de precisión.
+- El uso de este elemento es dependiente de tu idioma seleccionado.
 
 ---
 
 ![](img/score-percent.png "score-percent.png")
 
-**Notes:**
+**Notas:**
 
-- By default, this is also a part of the combo numbers.
-- This is for the accuracy.
+- Por defecto, esto tambien es parte de los números de combo.
+- Esto es para la precisión.
 
 ---
 
 ![](img/score-x.png "score-x.png")
 
-**Notes:**
+**Notas:**
 
-- By default, this is also a part of the combo numbers.
-- This is for the combo, only used in [osu!standard](/wiki/osu!standard).
+- Por defecto, esto tambien es parte de los números de combo.
+- Esto es para el combo, solo usado en [osu!standard](/wiki/osu!standard).
 
-## Ranking Grades
+## Grados de Clasificación
 
-The following table is for all ranking grade elements without a suffix.
+La siguiente tabla es para todos los elementos de los grados de clasificación sin un sufijo.
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
-
----
-
-The following table is for all ranking grade elements with the `-small` suffix.
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
-- This is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
-- Toggleable in the [options](/wiki/options).
-- Shrinks whenever the key is pressed.
+La siguiente tabla es para todos los elementos de los grados de clasificación con el sufijo `-small`.
+
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
+
+---
+
+- Esto es usado en [osu!standard](/wiki/osu!standard) y [osu!catch](/wiki/osu!catch).
+- Actibable en las [opciones](/wiki/options).
+- Se encoje cuando la tecla es presionada.
 
 ---
 
@@ -1030,382 +1030,382 @@ The following table is for all ranking grade elements with the `-small` suffix.
 
 ![](img/ranking-XH-small.png "ranking-XH-small.png")
 
-## Ranking Screen
+## Pantalla de Clasificación
 
-After version 2.0+, most of these elements got realigned.
+Después de la version 2.0+, la mayoria de estos elementos se realinearon.
 
 ---
 
 ![](img/ranking-accuracy.png "ranking-accuracy.png")
 
-| Animatable         | Beatmap Skinnable |
-|:------------------:|:-----------------:|
-| ![No][false]&sup1; | ![No][false]      |
+| Animable           | Modificable en un Beatmap |
+|:------------------:|:-------------------------:|
+| ![No][false]&sup1; | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is the headline for the player's accuracy.
+- Este es el encabezado para la precisión del jugador.
 
 ---
 
 ![](img/ranking-graph.png "ranking-graph.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is the background of the player's performance over time graph (performance is the amount from life bar)
+- Este es el fondo de la grafica del rendimiento del jugador sobre el tiempo (el rendimiento es la cantidad de la barra de vida).
 
 ---
 
 ![](img/ranking-maxcombo.png "ranking-maxcombo.png")
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![No][false] (see notes) | ![No][false]      |
+| Animable                | Modificable en un Beatmap |
+|:-----------------------:|:-------------------------:|
+| ![No][false](ver notas) | ![No][false]              |
 
-**Notes:**
+**Notas:**
 
-- If an animation is used, the zeroth frame is used.
-- This is the headline for the player's highest combo obtained.
+- Si la animación es usada, el fotograma cero es usado.
+- Este es el encabezado para el combo más alto obtenido del jugador.
 
 ---
 
 ![](img/ranking-panel.png "ranking-panel.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is the body of the ranking panel.
+- Este es el cuerpo del panel de clasificación. 
 
 ---
 
 ![](img/ranking-perfect.png "ranking-perfect.png")
 
-| Animatable               | Beatmap Skinnable |
-|:------------------------:|:-----------------:|
-| ![No][false] (see notes) | ![No][false]      |
+| Animable                | Modificable en un Beatmap |
+|:-----------------------:|:-------------------------:|
+| ![No][false](ver notas) | ![No][false]              |
 
-**Notes:**
+**Notas:**
 
-- If an animation is used, the zeroth frame is used.
-- "Perfect" is correlated with hit scores, not accuracy.
+- Si la animación es usada, el fotograma cero es usado.
+- "Perfect" se correlaciona con los puntajes, no con la precisión.
 
 ---
 
 ![](img/ranking-title.png "ranking-title.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is the heading for the entire ranking screen
-
----
-
-_`ranking-replay.png`_ (transparent; not included)
-
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
-
-**Notes:**
-
-- This element is for legacy support (for older skins).
-- This will override `pause-replay.png`, if skinned.
+- Este es el encabezado para toda la pantalla de clasificación.
 
 ---
 
-_`ranking-retry.png`_ (transparent; not included)
+_`ranking-replay.png`_ (transparente; no incluido)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Notes:**
+**Notas:**
 
-- This element is for legacy support (for older skins).
-- This will override `pause-retry.png`, if skinned.
+- Este elemento es para soporte de legado (para skins antiguas).
+- Este elemento anula `pause-replay.png`, si es modificado.
+
+---
+
+_`ranking-retry.png`_ (transparente; no incluido)
+
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
+
+**Notas:**
+
+- Este elemento es para soporte de legado (para skins antiguas).
+- Este elemento anula `pause-retry.png`, si es modificado.
 
 ---
 
 ![](img/ranking-winner.png "ranking-winner.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is used in multiplayer for the winner of the round.
+- Esto es usado en el multijugador para el ganador de la ronda.
 
-## Song Selection
+## Selección de canciones
 
-_`menu-back.png`_ (transparent; not included; see notes)
+_`menu-back.png`_ (transparente; no includido; ver notas)
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![Yes][true] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![Yes][true] | ![No][false]              |
 
-**Notes:**
+**Notas:**
 
-- Animation name: `menu-back-#.png`; replace `#` with indexed count (start frame count at zero).
-- _osu!_ has a new back button; however, it is unskinnable!
-  - If this element is skinned, it will override the new one everywhere; execpt for the [options](/wiki/options) sidebar.
+- Nombre de la animación: `menu-back-#.png`; remplaza `#` con el conteo indicado.
+- _osu!_ tiene un nuevo botón de "atras"; sin embargo; no es modificable!
+  - Si este elemento es modificado, anulará en todos lados el nuevo botón; excepto para la barra lateral de [opciones](/wiki/options).
 
 ---
 
 ![](img/menu-button-background.png "menu-button-background.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Notes:**
+**Notas:**
 
-- Skin versions 2.2+ can support thumbnails (toggleable in [options](/wiki/options)) for song selection
-- This element is used in various places:
-  - leaderboard in song selection
-  - button for the beatmap difficulty in song selection
-  - leaderboard on the left while playing
-  - button that shows the selected beatmap while waiting in a room in multiplayer
+- Skins con versiones 2.2+ soportan miniaturas (actibables en las [opciones](/wiki/options)) para la selección de canciones.
+- Este elemento es usado en varios lugares:
+  - tabla de clasificación en la selección de canción
+  - botón para la dificultad de un mapa en la selección de canciones
+  - tabla de clasificación a la izquierda mientras se juega
+  - botón que muestra el beatmap seleccionado mientras se espera en una sala en el multijugador
 
 ---
 
 ![](img/selection-mode.png "selection-mode.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/selection-mode-over.png "selection-mode-over.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/selection-mods.png "selection-mods.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/selection-mods-over.png "selection-mods-over.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/selection-random.png "selection-random.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/selection-random-over.png "selection-random-over.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/selection-tab.png "selection-tab.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- Depending on the osu!client's window size, 4 or 5 tabs will be displayed.
+- Dependiendo en el tamaño del cliente de osu!, 4 o 5 pestañas serán mostradas.
 
 ---
 
 ![](img/star.png "star.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is used for star ratings (seen in song selection).
+- Esto es usado para las puntuaciones con estrellas (visto en la selección de canciones).
 
 ---
 
 ![](img/star2.png "star2.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Note:**
+**Nota:**
 
-- This is used for song selection (the stars that fly from right to left), cursor, kiai time, combobursts.
+- Esto es usado para la selección de canciones (las estrellas que vuelan de derecha a izquierda), cursor, tiempo kiai, y combobursts.
 
-### Mode Select
+### Selección de Modo
 
-The skinning elements in this section uses three different suffixes to describe what they are used for.
+Los elementos modificables en esta sección usan 3 sufijos distintos describiendo para lo que son usados.
 
-- _no suffix_: These appear in the centre of the song selection screen (showing the currently selected game mode).
-- `-med`: These appear inside the mode section box, when selecting the game mode.
-- `-small`: These appear inside the mode section button (showing the currently selected game mode).
-  These images is also used as the default snow, if a skin does not include the `snow.png` image (the one used is the currently selected game mode).
+- _sin sufijo_: Estos aparecen en el centro de la pantalla cuando estás en la selección de canciones (mostrando el modo de juego seleccionado).
+- `-med`: Estos aparecen dentro del recuadro de selección de modos, cuando seleccionas el modo de juego.
+- `-small`: Estos aparecen dentro del botón del recuadro de selección de modos (mostrando el modo de juego seleccionado)
+  Estas imagenes también sn usadas como nieve por defecto, si una skin no incluye la imagen `snow.png` (la que se usa es la del modo de juego actualmente seleccionado)
 
 ---
 
 ![](img/mode-osu.png "mode-osu.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-taiko.png "mode-taiko.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-fruits.png "mode-fruits.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-mania.png "mode-mania.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-osu-med.png "mode-osu-med.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-taiko-med.png "mode-taiko-med.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-fruits-med.png "mode-fruits-med.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-mania-med.png "mode-mania-med.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-osu-small.png "mode-osu-small.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-taiko-small.png "mode-taiko-small.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-fruits-small.png "mode-fruits-small.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ---
 
 ![](img/mode-mania-small.png "mode-mania-small.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
 ## Trivia
 
-### History
+### Historia
 
-Interface skinning elements that are longer in use are peacefully resting here.
+Los elementos de la interfaz que ya no están en uso, descansando pacíficamente aquí.
 
 ---
 
 ![](img/playfield.png "playfield.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![Yes][true]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![Yes][true]              |
 
-**Note:**
+**Nota:**
 
-- This element was removed and was replaced with `menu-background.jpg`.
+- Este elemento fué removido y reemplazado con `menu-background.jpg`.
 
 ---
 
 ![](img/selection-selectoptions.png "selection-selectoptions.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Notes:**
+**Notas:**
 
-- This element was removed for an unknown reason.
-- This button opens the beatmap options menu for the individual beatmaps.
-  You can still access this menu by right clicking on a beatmap during song selection.
+- Este elemento fué removido por una razón desconocida.
+- Este botón abre el menú de opciones de un beatmap de manera individual por beatmap.
+  Tu aun puedes accesar este menu haciendo clic derecho en un beatmap durante la selección de canciones.
 
 ---
 
 ![](img/selection-selectoptions-over.png "selection-selectoptions-over.png")
 
-| Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
-| ![No][false] | ![No][false]      |
+| Animable     | Modificable en un Beatmap |
+|:------------:|:-------------------------:|
+| ![No][false] | ![No][false]              |
 
-**Notes:**
+**Notas:**
 
-- This element was removed with `selection-selectoptions.png`
+- Este elemento fué removido con `selection-selectoptions.png`
