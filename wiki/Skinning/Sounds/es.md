@@ -12,7 +12,7 @@ _`heartbeat.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Notas:**
 
@@ -24,7 +24,7 @@ _`seeya.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 - [osu!supporter](/wiki/osu!supporter) es requerido para ser modificado
 - Reproducido cuando se **cierra** el osu!client.
@@ -36,7 +36,7 @@ _`welcome.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 - [osu!supporter](/wiki/osu!supporter) es requerido para ser modificado
 - Reproducido cuando se **abre** el osu!client.
