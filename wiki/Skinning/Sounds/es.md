@@ -60,7 +60,7 @@ _`key-delete.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Nota:**
 
@@ -72,7 +72,7 @@ _`key-movement.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Nota:**
 
@@ -84,7 +84,7 @@ _`key-press-1.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Note:**
 
