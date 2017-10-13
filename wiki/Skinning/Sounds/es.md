@@ -48,7 +48,7 @@ _`key-confirm.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Notas:**
 
