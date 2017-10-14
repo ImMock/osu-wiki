@@ -3,8 +3,7 @@
 
 # Sonidos
 
-`.wav`, `.mp3`, y `.ogg` son formatos de sonido válidos (pero Notase que los archivos `.wav` son priorizados)
-are valid formats for sounds (but do Nota that `.wav` files are prioritized).
+`.wav`, `.mp3`, y `.ogg` son formatos de sonido válidos (pero tenga en cuenta que los archivos `.wav` son priorizados).
 
 ## Menú Principal
 
@@ -148,7 +147,7 @@ _`check-on.wav`_
 
 **Nota:**
 
-- Plays when enabling a checkboxes or enabling a mod. Reproducido cuando se activa.
+- Reproducido cuando se habilita una checkbox o se activa un modificador.
 
 ---
 
@@ -160,7 +159,7 @@ _`check-off.wav`_
 
 **Nota:**
 
-- Plays when disabling a checkboxes or disabling a mod.
+- Reproducido cuando se inhabilita una checkbox o se desactiva un modificador.
 
 ---
 
@@ -172,7 +171,7 @@ _`click-close.wav`_
 
 **Nota:**
 
-- Plays when closing a chat tab.
+- Reproducido cuando se cierra una pestaña de chat.
 
 ---
 
@@ -184,7 +183,7 @@ _`click-short-confirm.wav`_
 
 **Nota:**
 
-- Plays when clicking to confirm a button or dropdown option, opening or closing chat, switching between chat tabs, or switching groups.
+- Reproducido cuando se hace clic para confirmar, opcion desplegable, abrir o cerrar chat, cambiar entre pestañas del chat, o cambiar grupos.
 
 ---
 
@@ -196,7 +195,7 @@ _`menuback.wav`_
 
 **Nota:**
 
-- Plays when clicking on `menu-back` or returning to the previous screen.
+- Reproducido cuando se hace clic en `menu-back` o regresando a la pantalla anterior.
 
 ---
 
@@ -208,7 +207,7 @@ _`menuhit.wav`_
 
 **Nota:**
 
-- Plays when confirming a selection that switches screens.
+- Reproducido cuando se confirma una selección que cambia la pantalla.
 
 ---
 
@@ -220,7 +219,7 @@ _`menu-back-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Back` in the main menu.
+- Reproducido al hacer clic en `Back` en el menú principal.
 
 ---
 
@@ -232,7 +231,7 @@ _`menu-charts-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Charts` in the main menu.
+- Reproducido al hacer clic en `Charts` en el menú principal.
 
 ---
 
@@ -244,7 +243,7 @@ _`menu-direct-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `osu!direct` in the main menu.
+- Reproducido al hacer clic en `osu!direct` en el menú principal.
 
 ---
 
@@ -256,7 +255,7 @@ _`menu-edit-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Edit` in the main menu.
+- Reproducido al hacer clic en `Edit` en el menú principal.
 
 ---
 
@@ -268,7 +267,7 @@ _`menu-exit-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Exit` in the main menu.
+- Reproducido al hacer clic en `Exit` en el menú principal.
 
 ---
 
@@ -280,7 +279,7 @@ _`menu-freeplay-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Solo` in the main menu.
+- Reproducido al hacer clic en `Solo` en el menú principal.
 
 ---
 
@@ -292,7 +291,7 @@ _`menu-multiplayer-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Multiplayer` in the main menu.
+- Reproducido al hacer clic en `Multiplayer` en el menú principal.
 
 ---
 
@@ -304,7 +303,7 @@ _`menu-options-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Options` in the main menu.
+- Reproducido al hacer clic en `Options` en el menú principal.
 
 ---
 
@@ -316,7 +315,7 @@ _`menu-play-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on `Play` in the main menu.
+- Reproducido al hacer clic en `Play` en el menú principal.
 
 ---
 
@@ -328,7 +327,7 @@ _`pause-back-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on Back in the pause menu.
+- Reproducido al hacer clic en `Back to Menu` en el menú de pausa.
 
 ---
 
@@ -340,7 +339,7 @@ _`pause-continue-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on Continue in the pause menu.
+- Reproducido al hacer clic en `Continue` en el menú de pausa.
 
 ---
 
@@ -352,7 +351,7 @@ _`pause-retry-click.wav`_
 
 **Nota:**
 
-- Plays when clicking on Retry in the pause menu.
+- Reproducido al hacer clic en `Retry` en el menú de pausa.
 
 ---
 
@@ -364,7 +363,7 @@ _`select-expand.wav`_
 
 **Nota:**
 
-- Plays when switching into song selection, selecting a beatmap set, opening dropdown boxes, opening chat tabs.
+- Reproducido cuando cambias entre selección de canción, seleccionando un conjunto de beatmaps, abriendo recuadros desplegables, o al abrir pestañas de chat.
 
 ---
 
@@ -376,7 +375,7 @@ _`select-difficulty.wav`_
 
 **Nota:**
 
-- Plays when selecting a difficulty of a beatmap set.
+- Reproducido cuando seleccionas una dificultad en un conjunto del beatmap.
 
 ---
 
@@ -388,7 +387,7 @@ _`shutter.wav`_
 
 **Nota:**
 
-- Plays when a screenshot is taken.
+- Reproducido cuando es tomada una captura de pantalla.
 
 ## Hover
 
