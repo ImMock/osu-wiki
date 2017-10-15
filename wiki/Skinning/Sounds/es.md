@@ -399,7 +399,7 @@ _`back-button-hover.wav`
 
 **Nota:**
 
-- Plays when hovering above the back button.
+- Reproducido cuando se pasa el cursor sobre el botón de `Back`.
 
 ---
 
@@ -411,7 +411,7 @@ _`click-short.wav`_
 
 **Nota:**
 
-- Plays when hovering above all selectable boxes except beatmaps or main screen buttons
+- Reproducido cuando se pasa el cursor sobre todos los recuadros seleccionables a excepción de beatmaps o botones de la pantalla principal.
 
 ---
 
@@ -423,7 +423,7 @@ _`menuclick.wav`_
 
 **Nota:**
 
-- Plays when hovering above difficulties
+- Reproducido cuando se pasa el cursor sobre las dificultades.
 
 ---
 
@@ -435,7 +435,7 @@ _`menu-back-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Back in the main menu.
+- Reproducido cuando se pasa el cursor sobre Back en el menú principal.
 
 ---
 
@@ -447,7 +447,7 @@ _`menu-charts-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Charts in the main menu.
+- Reproducido cuando se pasa el cursor sobre los gráficos en el menú principal.
 
 ---
 
