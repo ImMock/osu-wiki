@@ -746,8 +746,8 @@ _`metronomelow.wav`_
 
 **Notas:**
 
-- Plays on the small white ticks in the beatmap editor (not skinnable).
-- This is also used in the offset wizard, osu!catch spinners (pitches goes up per caught banana).
+- Reproducido en las lineas blancas pequeñas en el "Beatmap Editor" (no modificable en una skin).
+- Esto es también usado en la compensacion de sonido y enlos spinners de osu!catch (el sonido se agudiza por banana atrapada).
 
 ## Gameplay
 
@@ -759,7 +759,7 @@ _`applause.wav`_
 
 **Nota:**
 
-- On the ranking screen after clearing a map.
+- En la pantalla de clasificación despues de terminar un mapa.
 
 ---
 
@@ -771,8 +771,8 @@ _`comboburst.wav`_
 
 **Notas:**
 
-- Like combobursts, multiple sounds can be included.
-- Applicable on preset counts (`CustomComboBurstSounds` command in [skin.ini](/wiki/skin.ini)).
+- Como los "comboburst", multiples sonidos pueden ser incluidos.
+- Aplica en cuentas prestablecidas (`CustomComboBurstSounds` comando en [skin.ini](/wiki/skin.ini)).
 
 ---
 
@@ -784,7 +784,7 @@ _`combobreak.wav`_
 
 **Nota:**
 
-- Plays when player breaks a combo of 20 or more.
+- Reproducido cuando un jugador rompe un combo de 20 o más.
 
 ---
 
@@ -796,7 +796,7 @@ _`failsound.wav`_
 
 **Nota:**
 
-- Failing a map at any point.
+- Fallando un mapa en cualquier parte.
 
 ---
 
@@ -808,7 +808,7 @@ _`sectionpass.wav`_
 
 **Nota:**
 
-- Halfway through a break with high HP remaining.
+- A medio camino de un descanzo con alta HP restante.
 
 ---
 
@@ -820,7 +820,7 @@ _`sectionfail.wav`_
 
 **Nota:**
 
-- Halfway through a break with low HP remaining.
+- A medio camino de un descanzo con baja HP restante.
 
 ## Pause Screen
 
@@ -832,14 +832,14 @@ _`pause-loop.wav`_
 
 **Nota:**
 
-- Plays when the game is paused.
-- This sound is looped.
+- Reproducido cuando el juego es pausado.
+- Este sonido está en bucle.
 
-## Hit Sounds
+## Sonidos de Golpe
 
 Hit sounds should not have any more than a 5 millisecond delay (unless it has a special purpose)
 
-### Drum Set
+### Batería
 
 _`drum-hitnormal.wav`_
 
