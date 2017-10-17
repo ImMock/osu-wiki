@@ -239,7 +239,7 @@ _`menu-direct-click.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Nota:**
 
@@ -263,7 +263,7 @@ _`menu-exit-click.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [No][false]               |
+| ![No][false]              |
 
 **Nota:**
 
@@ -459,7 +459,7 @@ _`menu-direct-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Direct in the main menu.
+- Reproducido cuando se pasa el cursor sobre `Direct` en el menú principal.
 
 ---
 
@@ -471,7 +471,7 @@ _`menu-edit-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Edit in the main menu.
+- Reproducido cuando se pasa el cursor sobre `Edit` en el menú principal.
 
 ---
 
@@ -483,7 +483,7 @@ _`menu-exit-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Exit in the main menu.
+- Reproducido cuando se pasa el cursor sobre `Exit` en el menú principal.
 
 ---
 
@@ -495,7 +495,6 @@ _`menu-freeplay-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Solo in the main menu.
 
 ---
 
@@ -507,7 +506,7 @@ _`menu-multiplayer-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Multiplayer in the main menu.
+- Reproducido cuando se pasa el cursor sobre `Multiplayer` en el menú principal.
 
 ---
 
@@ -519,7 +518,7 @@ _`menu-options-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Options in the main menu.
+- Reproducido cuando se pasa el cursor sobre `Options` en el menú principal.
 
 ---
 
@@ -531,7 +530,7 @@ _`menu-play-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering above Play in the main menu.
+- Reproducido cuando se pasa el cursor sobre `Play` en el menú principal.
 
 ---
 
@@ -551,7 +550,7 @@ _`pause-back-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering over Back in pause menu.
+- Reproducido cuando se pasa el cursor sobre `Back` en el menú de pausa.
 
 ---
 
@@ -563,7 +562,7 @@ _`pause-continue-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering over Continue in pause menu.
+- Reproducido cuando se pasa el cursor sobre `Continue` en el menú de pausa.
 
 ---
 
@@ -575,9 +574,9 @@ _`pause-retry-hover.wav`_
 
 **Nota:**
 
-- Plays when hovering over Retry in pause menu.
+- Reproducido cuando se pasa el cursor sobre `Retry` en el menú de pausa.
 
-## Drag
+## Arrastrar
 
 _`sliderbar.wav`_
 
@@ -587,7 +586,7 @@ _`sliderbar.wav`_
 
 **Nota:**
 
-- Plays when changing the options via a slider.
+- Reproducido cuando se cambian las opciones via deslizador.
 
 ---
 
@@ -599,7 +598,7 @@ _`whoosh.wav`_
 
 **Nota:**
 
-- As of now, this is disabled.
+- A partir de ahora, esto está desactivado.
 
 ## Multiplayer
 
@@ -611,7 +610,7 @@ _`match-confirm.wav`_
 
 **Nota:**
 
-- Plays when all players are ready.
+- Reproducido cuando todos los jugadores están listos.
 
 ---
 
@@ -623,7 +622,7 @@ _`match-join.wav`_
 
 **Nota:**
 
-- Plays when a player joins a room.
+- Reproducido cuando un jugador entra a la sala.
 
 ---
 
@@ -635,7 +634,7 @@ _`match-leave.wav`_
 
 **Nota:**
 
-- Plays when a player leaves a room.
+- Reproducido cuando un jugador deja la sala.
 
 ---
 
@@ -647,7 +646,7 @@ _`match-notready.wav`_
 
 **Nota:**
 
-- Plays when a player revoked his ready signal.
+- Reproducido cuando un jugador el jugador revocó su señal de Listo.
 
 ---
 
@@ -659,7 +658,7 @@ _`match-ready.wav`_
 
 **Nota:**
 
-- Plays when a player is ready to start.
+- Reproducido cuando un jugador está listo para comenzar.
 
 ---
 
@@ -671,8 +670,8 @@ _`match-start.wav`_
 
 **Notas:**
 
-- Plays when the match is starting.
-- This is also the chat highlight sound.
+- Reproducido cuando la partida está comenzando.
+- Esto tambien es el sonido de highlight en el chat.
 
 # Countdown
 
@@ -684,8 +683,8 @@ _`count.wav`_
 
 **Notas:**
 
-- This replaces the `count#s` sounds (if one sound is wanted).
-- This is also the metronome for the target practice mod.
+- Esto remplaza los sonidos de `count#s` (si alguno es necesitado).
+- Esto es también el metronomo para el modo "Target Practice".
 
 _`count1s.wav`_
 
@@ -735,7 +734,7 @@ _`metronomehigh.wav`_
 
 **Nota:**
 
-- Plays on the big white ticks in the beatmap editor (not skinnable).
+- Reproducido en las lineas blancas grandes en el "Beatmap Editor" (no modificable en una skin).
 
 ---
 
