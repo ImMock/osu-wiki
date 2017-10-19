@@ -183,7 +183,7 @@ _`click-short-confirm.wav`_
 
 **Nota:**
 
-- Reproducido cuando se hace clic para confirmar, opcion desplegable, abrir o cerrar chat, cambiar entre pestañas del chat, o cambiar grupos.
+- Reproducido cuando se hace clic para confirmar, opción desplegable, abrir o cerrar chat, cambiar entre pestañas del chat, o cambiar grupos.
 
 ---
 
@@ -586,7 +586,7 @@ _`sliderbar.wav`_
 
 **Nota:**
 
-- Reproducido cuando se cambian las opciones via deslizador.
+- Reproducido cuando se cambian las opciones vía deslizador.
 
 ---
 
@@ -671,7 +671,7 @@ _`match-start.wav`_
 **Notas:**
 
 - Reproducido cuando la partida está comenzando.
-- Esto tambien es el sonido de highlight en el chat.
+- Esto también es el sonido de highlight en el chat.
 
 # Countdown
 
@@ -684,7 +684,7 @@ _`count.wav`_
 **Notas:**
 
 - Esto remplaza los sonidos de `count#s` (si alguno es necesitado).
-- Esto es también el metronomo para el modo "Target Practice".
+- Esto es también el metrónomo para el modo "Target Practice".
 
 _`count1s.wav`_
 
@@ -724,7 +724,7 @@ _`readys.wav`_
 |:-------------------------:|
 | ![Yes][true]              |
 
-## Metronome
+## Metrónomo
 
 _`metronomehigh.wav`_
 
@@ -734,7 +734,7 @@ _`metronomehigh.wav`_
 
 **Nota:**
 
-- Reproducido en las lineas blancas grandes en el "Beatmap Editor" (no modificable en una skin).
+- Reproducido en las líneas blancas grandes en el "Beatmap Editor" (no modificable en una skin).
 
 ---
 
@@ -746,8 +746,8 @@ _`metronomelow.wav`_
 
 **Notas:**
 
-- Reproducido en las lineas blancas pequeñas en el "Beatmap Editor" (no modificable en una skin).
-- Esto es también usado en la compensacion de sonido y enlos spinners de osu!catch (el sonido se agudiza por banana atrapada).
+- Reproducido en las líneas blancas pequeñas en el "Beatmap Editor" (no modificable en una skin).
+- Esto es también usado en la compensación de sonido y en los spinners de osu!catch (el sonido se agudiza por banana atrapada).
 
 ## Gameplay
 
@@ -759,7 +759,7 @@ _`applause.wav`_
 
 **Nota:**
 
-- En la pantalla de clasificación despues de terminar un mapa.
+- En la pantalla de clasificación después de terminar un mapa.
 
 ---
 
@@ -771,7 +771,7 @@ _`comboburst.wav`_
 
 **Notas:**
 
-- Como los "comboburst", multiples sonidos pueden ser incluidos.
+- Como los "comboburst", múltiples sonidos pueden ser incluidos.
 - Aplica en cuentas prestablecidas (`CustomComboBurstSounds` comando en [skin.ini](/wiki/skin.ini)).
 
 ---
@@ -808,7 +808,7 @@ _`sectionpass.wav`_
 
 **Nota:**
 
-- A medio camino de un descanzo con alta HP restante.
+- A medio camino de un descanso con alta HP restante.
 
 ---
 
@@ -820,7 +820,7 @@ _`sectionfail.wav`_
 
 **Nota:**
 
-- A medio camino de un descanzo con baja HP restante.
+- A medio camino de un descanso con baja HP restante.
 
 ## Pause Screen
 
@@ -996,7 +996,7 @@ _`normal-sliderslide.wav`_
 **Notas:**
 
 - Mapeado como N:C1 en la skin del beatmap.
-- This sound is looped.
+- Este sonido está en bucle.
 
 ---
 
@@ -1009,7 +1009,7 @@ _`normal-sliderwhistle.wav`_
 **Notas:**
 
 - Mapeado como N:C1 en la skin del beatmap.
-- This sound is looped.
+- Este sonido está en bucle.
 
 ### Soft Set
 
@@ -1190,7 +1190,7 @@ _`taiko-soft-hitclap.wav`_
 
 | Modificable en un Beatmap |
 |:-------------------------:|
-| [Yes][true]               |
+| ![Yes][true]              |
 
 **Nota:**
 
