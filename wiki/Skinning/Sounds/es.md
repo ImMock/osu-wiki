@@ -837,7 +837,7 @@ _`pause-loop.wav`_
 
 ## Sonidos de Golpe
 
-"Hit sounds" no deben tener más de 5 milisegundos de retraso (a menos de que tenga un propósito especial)
+Los "Hit sounds" no deben tener más de 5 milisegundos de retraso (a menos de que tenga un propósito especial).
 
 ### Batería
 
@@ -849,7 +849,7 @@ _`drum-hitnormal.wav`_
 
 **Nota:**
 
-- Mapped as D:C1 on beatmap skins
+- Mapeado como D:C1 en la skin del beatmap.
 
 ---
 
@@ -861,7 +861,7 @@ _`drum-hitclap.wav`_
 
 **Nota:**
 
-- Mapped as D:C1 on beatmap skins
+- Mapeado como D:C1 en la skin del beatmap.
 
 ---
 
@@ -873,7 +873,7 @@ _`drum-hitfinish.wav`_
 
 **Nota:**
 
-- Mapped as D:C1 on beatmap skins
+- Mapeado como D:C1 en la skin del beatmap.
 
 ---
 
@@ -885,7 +885,7 @@ _`drum-hitwhistle.wav`_
 
 **Nota:**
 
-- Mapped as D:C1 on beatmap skins
+- Mapeado como D:C1 en la skin del beatmap.
 
 ---
 
@@ -897,7 +897,7 @@ _`drum-slidertick.wav`_
 
 **Nota:**
 
-- Mapped as D:C1 on beatmap skins
+- Mapeado como D:C1 en la skin del beatmap.
 
 ---
 
@@ -909,8 +909,8 @@ _`drum-sliderslide.wav`_
 
 **Notas:**
 
-- Mapped as D:C1 on beatmap skins
-- This sound is looped.
+- Mapeado como D:C1 en la skin del beatmap.
+- Este sonido está en bucle.
 
 ---
 
@@ -922,10 +922,10 @@ _`drum-sliderwhistle.wav`_
 
 **Notas:**
 
-- Mapped as D:C1 on beatmap skins
-- This sound is looped.
+- Mapeado como D:C1 en la skin del beatmap.
+- Este sonido está en bucle.
 
-### Normal Set
+### Set Normal
 
 _`normal-hitnormal.wav`_
 
@@ -935,7 +935,7 @@ _`normal-hitnormal.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -947,7 +947,7 @@ _`normal-hitclap.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -959,7 +959,7 @@ _`normal-hitfinish.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -971,7 +971,7 @@ _`normal-hitwhistle.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -983,7 +983,7 @@ _`normal-slidertick.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -995,7 +995,7 @@ _`normal-sliderslide.wav`_
 
 **Notas:**
 
-- Mapped as N:C1 on beatmap skins.
+- Mapeado como N:C1 en la skin del beatmap.
 - This sound is looped.
 
 ---
@@ -1008,7 +1008,7 @@ _`normal-sliderwhistle.wav`_
 
 **Notas:**
 
-- Mapped as N:C1 on beatmap skins.
+- Mapeado como N:C1 en la skin del beatmap.
 - This sound is looped.
 
 ### Soft Set
@@ -1021,7 +1021,7 @@ _`soft-hitnormal.wav`_
 
 **Nota:**
 
-- Mapped as S:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -1033,7 +1033,7 @@ _`soft-hitclap.wav`_
 
 **Nota:**
 
-Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1045,7 +1045,7 @@ _`soft-hitfinish.wav`_
 
 **Nota:**
 
-Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1057,7 +1057,7 @@ _`soft-hitwhistle.wav`_
 
 **Nota:**
 
-Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1069,7 +1069,7 @@ _`soft-slidertick.wav`_
 
 **Nota:**
 
-Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1081,8 +1081,8 @@ _`soft-sliderslide.wav`_
 
 **Notas:**
 
-- Mapped as S:C1 on beatmap skins
-- This sound is looped.
+- Mapeado como S:C1 en la skin del beatmap.
+- Este sonido está en bucle.
 
 ---
 
@@ -1094,8 +1094,8 @@ _`soft-sliderwhistle.wav`_
 
 **Notas:**
 
-- Mapped as S:C1 on beatmap skins
-- This sound is looped.
+- Mapeado como S:C1 en la skin del beatmap.
+- Este sonido está en bucle.
 
 ### Spinner Set
 
@@ -1107,8 +1107,8 @@ _`spinnerspin.wav`_
 
 **Nota:**
 
-- This sound is looped.
-- This sound could modulate from ~500hz to 80000hz (togglable with [skin.ini](/wiki/skin.ini))
+- Este sonido está en bucle.
+- Este sonido es modulable desde los ~500hz hasta 80000hz (activable en [skin.ini](/wiki/skin.ini)).
 
 ---
 
@@ -1120,7 +1120,7 @@ _`spinnerbonus.wav`_
 
 **Nota:**
 
-- Plays everytime you get 1000 bonus points from spinning.
+- Reproducido cada vez que consigues 1000 puntos de bonificación por hacer "spinning".
 
 ### Taiko Hit Sounds
 
@@ -1134,7 +1134,7 @@ _`taiko-normal-hitnormal.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -1146,7 +1146,7 @@ _`taiko-normal-hitclap.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -1158,7 +1158,7 @@ _`taiko-normal-hitfinish.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 ---
 
@@ -1170,7 +1170,7 @@ _`taiko-normal-hitwhistle.wav`_
 
 **Nota:**
 
-- Mapped as N:C1 on beatmap skins
+- Mapeado como N:C1 en la skin del beatmap.
 
 #### Soft Set
 
@@ -1182,7 +1182,7 @@ _`taiko-soft-hitnormal.wav`_
 
 **Nota:**
 
-- Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1194,7 +1194,7 @@ _`taiko-soft-hitclap.wav`_
 
 **Nota:**
 
-- Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1206,7 +1206,7 @@ _`taiko-soft-hitfinish.wav`_
 
 **Nota:**
 
-- Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 ---
 
@@ -1218,7 +1218,7 @@ _`taiko-soft-hitwhistle.wav`_
 
 **Nota:**
 
-- Mapped as S:C1 on beatmap skins
+- Mapeado como S:C1 en la skin del beatmap.
 
 #### Drum Set
 
@@ -1230,8 +1230,8 @@ _`taiko-drum-hitnormal.wav`_
 
 **Notas:**
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapeado como D:C1 en la skin del beatmap.
+- **Reproducido solamente cuando es mapeado e incluido**
 
 ---
 
@@ -1243,8 +1243,8 @@ _`taiko-drum-hitclap.wav`_
 
 **Notas:**
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapeado como D:C1 en la skin del beatmap.
+- **Reproducido solamente cuando es mapeado e incluido**
 
 ---
 
@@ -1256,8 +1256,8 @@ _`taiko-drum-hitfinish.wav`_
 
 **Notas:**
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapeado como DN:C1 en la skin del beatmap.
+- **Reproducido solamente cuando es mapeado e incluido**
 
 ---
 
@@ -1269,5 +1269,5 @@ _`taiko-drum-hitwhistle.wav`_
 
 **Notas:**
 
-- Mapped as D:C1 on beatmap skins
-- **Only played when mapped and included**
+- Mapeado como D:C1 en la skin del beatmap.
+- **Reproducido solamente cuando es mapeado e incluido**
