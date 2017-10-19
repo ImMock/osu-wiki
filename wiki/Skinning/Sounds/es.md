@@ -837,7 +837,7 @@ _`pause-loop.wav`_
 
 ## Sonidos de Golpe
 
-Hit sounds should not have any more than a 5 millisecond delay (unless it has a special purpose)
+"Hit sounds" no deben tener más de 5 milisegundos de retraso (a menos de que tenga un propósito especial)
 
 ### Batería
 
