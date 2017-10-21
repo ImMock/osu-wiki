@@ -59,7 +59,7 @@ No tengas miedo con la cantidad por que,recuerda, **no estás obligado a cambiar
 
 ### ¿Qué debería contener mi carpeta de Skin?
 
-Generally, the skinning elements and the skin.ini file are important parts of your skin and should be included.
+Generally, the skinning elements and the skin.ini file are important parts of your skin and should be included.Generalmente, los elementos de skinning y el atchivo skin.ini son partes importantes de tu skin y deber
 Which parts you are going to add it’s completely up to you because anything you don't change, the default element will be used instead.
 
 You are able to add different folders with alternative parts into your skin.
