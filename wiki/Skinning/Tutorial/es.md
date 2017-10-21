@@ -29,22 +29,22 @@ Al comienzo de hacer cualquier skin, deberías tener:
 - Habilidades de principiante con cualquier programa de edición de fotos (que soporte transparencia) como Photoshop, GIMP, Paint.NET, etc.
 - Paciencia (si, el skinning toma tiempo).
 - ¡Una idea! (si, esto es **muy** importante, trata de ser ingenioso cuando estés haciendo tu skin).
-- and, of course, you need something with you can start skinning with; see the next section below.
+- Y, por su puesto, necesitas algo con que empezar; mira la siguiente sección.
 
-### Template Downloads
+### Descarga de Plantilla
 
-Here are the templates to both version 1.0 and 2.0+ skins.
-Since the default skin is constantly changing, the new skin template will become out of date.
-Dispite of this, the new skin template here should be enough to start your skin for version 2.0+.
+Aquí están las plantillas para las versiones 1.0 y 2.0+ de las skins.
+Desde que la skin por defecto está en constante cambio, la nueva plantilla de skin quedará desactualizada.
+A pesar de esto, la nueva plantilla de skin que te proporcinamos aquí debería ser suficiente para comenzar tu skin para la versión 2.0+.
 
 [![Old skin download](template/old_template.png "Clic para descargar")](template/old_template.osk)
 [![New skin download](template/new_template.png "Clic para descargar")](template/new_template.osk)
 
-### What the "new" and "old" style skinning about?
+### ¿Que hay acerca del "new" y el "old" estilo de skinning?
 
-This question may also be known as, "What's skin version 1.0 and 2.0+?".
+Esta pregunta también podria ser, ¿Que es la versión 1.0 y 2.0+ en las skins?
 
-The new and old style skinning was an option in the osu!client.
+El nuevo y viejo estilo de skinning fué una opción en el osu!client.
 It was, however, removed because the skin.ini now handles the skin versioning.
 
 Old style skinning, now known as "version 1.0", is a style that was used by old default skin (before March 2013).
