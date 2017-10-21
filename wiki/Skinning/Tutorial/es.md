@@ -14,11 +14,11 @@ Si has pasado por todo el foro de osu!skinning y estás seghuro que no puedes en
 Con esto en mente, tu puedes tomar esta iniciativa para crear la skin de tus sueños y hacer algo que todos los demás pueden querer!
 
 Sin embargo, por favor, **nunca** hagas una solicitud de una Skin en cualquier lugar de osu!forums.
-El no seguir esta regla hará que se mueva tu hilo del foro a los terrenos baldíos del foro.
+El no seguir esta regla hará que se mueva tu hilo del foro a los terrenos baldíos del mismo.
 
 ### ¿Donde puedo conseguir esta skin que usó un YouTuber/Streamer?
 
-Antes que nada, no vayas preguntando esto en los osu!forums, tu hilo será muy probablemente tirado en los terrenos baldíos del foro.
+Antes que nada, no vayas preguntando esto en los osu!forums, tu hilo será muy probablemente tirado en los terrenos baldíos del mismo.
 Segundo, tu mejor apuesta es simplemente preguntarle a esa persona por la skin que está usando.
 
 ### ¡Quiero hacer una skin! pero, ¿qué necesito?
@@ -29,40 +29,30 @@ Al comienzo de hacer cualquier skin, deberías tener:
 - Habilidades de principiante con cualquier programa de edición de fotos (que soporte transparencia) como Photoshop, GIMP, Paint.NET, etc.
 - Paciencia (si, el skinning toma tiempo).
 - ¡Una idea! (si, esto es **muy** importante, trata de ser ingenioso cuando estés haciendo tu skin).
-- Y, por su puesto, necesitas algo con que empezar; mira la siguiente sección.
-
-### Descarga de Plantilla
-
-Aquí están las plantillas para las versiones 1.0 y 2.0+ de las skins.
-Desde que la skin por defecto está en constante cambio, la nueva plantilla de skin quedará desactualizada.
-A pesar de esto, la nueva plantilla de skin que te proporcinamos aquí debería ser suficiente para comenzar tu skin para la versión 2.0+.
-
-[![Old skin download](template/old_template.png "Clic para descargar")](template/old_template.osk)
-[![New skin download](template/new_template.png "Clic para descargar")](template/new_template.osk)
 
 ### ¿Que hay acerca del "new" y el "old" estilo de skinning?
 
 Esta pregunta también podria ser, ¿Que es la versión 1.0 y 2.0+ en las skins?
 
 El nuevo y viejo estilo de skinning fué una opción en el osu!client.
-It was, however, removed because the skin.ini now handles the skin versioning.
+Era, sin embargo, removido por que el skin.ini ahora maneja el control de versiones de skins.
 
-Old style skinning, now known as "version 1.0", is a style that was used by old default skin (before March 2013).
-After the "March 2013 update", also known as "version 2.0", peppy introduced the new default skin with its new behaviours and parts.
-There were few important changes like new spinner, countdown, hitbursts, ranking-panel behaviour.
-For a changelog of skinning updates, see [Skinning](../).
+El estilo "old" de skinning, ahora conocido como "version 1.0", es un estilo que fué usado para la antigua skin por defecto (antes de Marzo del 2013).
+Después de la actualización de Marzo 2013 ("March 2013 update"), también conocida como "version 2.0", peppy introdujo una nueva skin por defecto con sus nuevos comportamientos y partes.
+There were few important changes like new spinner, countdown, hitbursts, ranking-panel behaviour.Hubo unos pocos cambios importantes como un nuevo spinner, countdown, hitbursts, y el comportamiento del ranking-panel.
+Para un registro de cambios en las actualizaciones de skinning, vease [Skinning](../).
 
-It may not seem important to denote which version you use but know that some older features may not be available in the latest version of skinning.
+Puede que no parezca importante denotar qué versión usas, pero recuerda que algunas de las caracteristicas antiguas pueden no estár disponibles en la ultima versión de skinning.
 
-### What is skinning? Do I need some magical powers to skin?
+### ¿Qué es skinning? ¿Necesito algún tipo de poder mágico para hacer una skin?
 
-Luckily, you don't need magical powers to skin.
+Afortunadamente, no necesitas poderes mágicos para hacer una skin.
 
-Skinning is a simple picture changing mechanism that osu! will load upon selecting a skin in the options.
-Creating skins is easy (but creating elements, the images, is a little more difficult thing to achieve).
+Skinning es un simple mecanismo de cambiar imágenes que osu! cargará al seleccionar una skin en las opciones.
+Crear skins es facil (pero crear elementos, las imagenes, es un poco más complicado de lograr).
 
-First you need to find your `Skins` folder which is inside your osu! directory.
-From here, you could either make a new folder and call it whatever you want then start making the skin.
+Primero necesitarás encontrar tu carpeta de `Skins` la cual está dentro de tu directorio de osu!
+From here, you could either make a new folder and call it whatever you want then start making the skin.Desde ahí-
 (You could, instead, install the template skin, rename it, and start editing it.)
 
 You should note that osu! has over 200 skinable elements (not counting the individual animation frames).
