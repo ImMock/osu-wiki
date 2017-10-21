@@ -39,7 +39,7 @@ Era, sin embargo, removido por que el skin.ini ahora maneja el control de versio
 
 El estilo "old" de skinning, ahora conocido como "version 1.0", es un estilo que fué usado para la antigua skin por defecto (antes de Marzo del 2013).
 Después de la actualización de Marzo 2013 ("March 2013 update"), también conocida como "version 2.0", peppy introdujo una nueva skin por defecto con sus nuevos comportamientos y partes.
-There were few important changes like new spinner, countdown, hitbursts, ranking-panel behaviour.Hubo unos pocos cambios importantes como un nuevo spinner, countdown, hitbursts, y el comportamiento del ranking-panel.
+Hubo unos pocos cambios importantes como un nuevo spinner, countdown, hitbursts, y el comportamiento del ranking-panel.
 Para un registro de cambios en las actualizaciones de skinning, vease [Skinning](../).
 
 Puede que no parezca importante denotar qué versión usas, pero recuerda que algunas de las caracteristicas antiguas pueden no estár disponibles en la ultima versión de skinning.
@@ -59,27 +59,25 @@ No tengas miedo con la cantidad por que,recuerda, **no estás obligado a cambiar
 
 ### ¿Qué debería contener mi carpeta de Skin?
 
-Generally, the skinning elements and the skin.ini file are important parts of your skin and should be included.Generalmente, los elementos de skinning y el atchivo skin.ini son partes importantes de tu skin y deber
-Which parts you are going to add it’s completely up to you because anything you don't change, the default element will be used instead.
+Generally, the skinning elements and the skin.ini file are important parts of your skin and should be included.Generalmente, los elementos de skinning y el atchivo skin.ini son partes importantes de tu skin y deberán ser incluidos.
+Qué partes son las que añadirás, es completamente tu decisión ya que, para los elementos que no cambies, se utilizaran los de la skin por defecto.
 
-You are able to add different folders with alternative parts into your skin.
-osu! won’t care if they are there or not.
-Do note, however, the subfolder called `taiko` (name is case-insensitive) is reserved for osu!taiko skins, which will override all of the osu!taiko elements (and some interface elements when playing an osu!taiko map).
+Eres capaz de añadir diferentes carpetas con partes alternativas para tu skin.
+A osu! no le importan si están o no.
+Notese que, sin embargo, la sub-carpeta llamada `taiko` (aiuda con -> "name is case-insensitive") es reservada para skins de osu!taiko, que anulará todos los elementos de osu!taiko (y algunos elementos de la interfaz cuando juegas un mapa de osu!taiko).
 
-### Can I use a skinned element from someone else's skin?
+### ¿Puedo usar un elemento skineado de la skin de alguien más?
 
-**Never post a skin with another user's skinning element(s) without permission!**
+**¡Nunca publiques una skin con elemento(s) de skin de otro usuario sin su permiso!**
 
-This is an important rule of skinning.
-If you got permission, or user is no longer active and it’s impossible to contact with them, just remember to credit them properly.
+Esta es una regla importante en el skinning.
+Si obtienes su permiso, o el usuario no está activo y es imposible de contactarlo, solamente recuerda darle el credito de manera apropiada.
 
-### What about a skin mashup?
+### ¿Que hay acerca de los "remixes"?
 
-You _could_ do that, but&mdash;even if you do get permission&mdash;please don't share those in the osu! skinning subforums.
-Please **keep those to yourself** or post it on your profile page.
-This will help skinners make their original skins stand out than the remixed/mashup-ed skins.
+This will help skinners make their original skins stand out than the remixed/mashup-ed skins.Esto ayudará a mantener las skins originales apartadas de las skins "remix".
 
-### How do I animate an element?
+### ¿Cómo puedo animar un elemento?
 
 Know that osu! allows you to animate some elements, but not all of them.
 To create an animation for an animatable element, you will need the frames for that animation frame by frame.
@@ -95,7 +93,7 @@ For example:
 - `sliderb` has its frames named: sliderb0, sliderb1, sliderb2, etc.
 - `pippidonclear` has its frames named: pippidonclear0, pippidonclear1, pippidonclear2, etc.
 
-### My animation is playing too fast/slow, how do I fix it?
+### Mi animación se reproduce muy lento/rapido, ¿como lo puedo solucionar?
 
 If your animation is too fast/slow, you have two ways to fix it
 
