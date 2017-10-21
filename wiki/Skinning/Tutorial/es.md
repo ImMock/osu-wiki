@@ -1,30 +1,34 @@
-# Skinning Tutorial
+# Tutorial de Skinning 
 
-The Skinning Tutorial articles are to serve as a general how to on skinning.
 
-## Skinning FAQ
+* **_Skin_**: Son todas aquellas variaciones del aspecto original de _osu!_
+* **_Skinning_**: Es la acción de modificar/crear elementos para la interfaz de _osu!_
 
-### Can someone make this skin from that show/game?
+Los articulos de tutoriales de skin son para enseñar de manera general como hacer skinning.
 
-If you have gone through the entire osu!skinning forums and you are certain that you cannot find _that_ skin, then congrats, osu! doesn't have it yet.
-With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want! 
+## Skinning FAQ _(Preguntas frecuentes)_
 
-Nonetheless, please, **never** request for a skin anywhere in the osu!fourms.
-Failing to follow this rule will your thread be moved to the wastelands.
+### ¿Podría alguien hacer una skin de este programa/juego?
 
-### Where can I get this skin that a YouTuber/streamer played with?
+Si has pasado por todo el foro de osu!skinning y estás seghuro que no puedes encontrar _esa_ skin, entonces felicitaciones, osu! aún no la tiene.
+Con esto en mente, tu puedes tomar esta iniciativa para crear la skin de tus sueños y hacer algo que todos los demás pueden querer!
 
-First off, don't go asking this in the osu!forums, your thread will most likely be thrown into the wastelands.
-Secondly, your best bet is to simply ask that person for the skin they're using.
+Sin embargo, por favor, **nunca** hagas una solicitud de una Skin en cualquier lugar de osu!forums.
+El no seguir esta regla hará que se mueva tu hilo del foro a los terrenos baldíos del foro.
 
-### I want to make a skin! But what do I need?
+### ¿Donde puedo conseguir esta skin que usó un YouTuber/Streamer?
 
-Well nice choice, but remember, skinning can be little hard for a newbie.
-In the beginning of making any skin, you should have:
+Antes que nada, no vayas preguntando esto en los osu!forums, tu hilo será muy probablemente tirado en los terrenos baldíos del foro.
+Segundo, tu mejor apuesta es simplemente preguntarle a esa persona por la skin que está usando.
 
-- beginner skills with any photo editing program (that supports transparency) like Photoshop, GIMP, Paint.NET, etc.
-- patience (yes, skinning does take some time)
-- an idea! (yes, this is **very** important. Try be clever when making your skin)
+### ¡Quiero hacer una skin! pero, ¿qué necesito?
+
+Buena elección, pero recuerda, el skinning puede ser un poco dificil para un novato.
+Al comienzo de hacer cualquier skin, deberías tener:
+
+- Habilidades de principiante con cualquier programa de edición de fotos (que soporte transparencia) como Photoshop, GIMP, Paint.NET, etc.
+- Paciencia (si, el skinning toma tiempo).
+- ¡Una idea! (si, esto es **muy** importante, trata de ser ingenioso cuando estés haciendo tu skin).
 - and, of course, you need something with you can start skinning with; see the next section below.
 
 ### Template Downloads
@@ -33,8 +37,8 @@ Here are the templates to both version 1.0 and 2.0+ skins.
 Since the default skin is constantly changing, the new skin template will become out of date.
 Dispite of this, the new skin template here should be enough to start your skin for version 2.0+.
 
-[![Old skin download](template/old_template.png "Click to download")](template/old_template.osk)
-[![New skin download](template/new_template.png "Click to download")](template/new_template.osk)
+[![Old skin download](template/old_template.png "Clic para descargar")](template/old_template.osk)
+[![New skin download](template/new_template.png "Clic para descargar")](template/new_template.osk)
 
 ### What the "new" and "old" style skinning about?
 
