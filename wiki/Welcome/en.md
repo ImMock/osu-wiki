@@ -44,4 +44,4 @@ Modding is the process of users reviewing (or commonly called "modding") a creat
 
 Since 26. August 2016, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
 
-To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
+To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).asd
