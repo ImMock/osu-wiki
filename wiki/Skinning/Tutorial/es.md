@@ -52,13 +52,12 @@ Skinning es un simple mecanismo de cambiar imágenes que osu! cargará al selecc
 Crear skins es facil (pero crear elementos, las imagenes, es un poco más complicado de lograr).
 
 Primero necesitarás encontrar tu carpeta de `Skins` la cual está dentro de tu directorio de osu!
-From here, you could either make a new folder and call it whatever you want then start making the skin.Desde ahí-
-(You could, instead, install the template skin, rename it, and start editing it.)
+Desde ahí, podrías hacer una carpeta nueva y llamarla como quieras y de ahí empezar a hacer la skin.
 
-You should note that osu! has over 200 skinable elements (not counting the individual animation frames).
-Don’t be scared with the amount because, remember, **you are not forced to change everything**.
+Deberías notar que osu! cuenta con más de 200 elementos modificables en una skin (sin incluir los fotogramas individuales de animación).
+No tengas miedo con la cantidad por que,recuerda, **no estás obligado a cambiar todo**
 
-### What should my skinning folder contain?
+### ¿Qué debería contener mi carpeta de Skin?
 
 Generally, the skinning elements and the skin.ini file are important parts of your skin and should be included.
 Which parts you are going to add it’s completely up to you because anything you don't change, the default element will be used instead.
