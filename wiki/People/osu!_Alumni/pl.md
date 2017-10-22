@@ -7,7 +7,6 @@ Alumni osu!
 | Nick | Zasługi |
 | ----- | ------- |
 | [-SiN-](https://osu.ppy.sh/u/10560) | Moderator czatu |
-| [-SiN-](https://osu.ppy.sh/u/10560) | Moderator czatu |
 | [[Shi-Ra]](https://osu.ppy.sh/u/2008489) | QAT |
 | [aabc271](https://osu.ppy.sh/u/155707) | BAT |
 | [abalee](https://osu.ppy.sh/u/13103) | BAT |
