@@ -1,7 +1,7 @@
 osu! Alumni
 ==============
 
-Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estadía. [Link](http://osu.ppy.sh/g/16)
+Los osu! Alumni son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad. [Link](http://osu.ppy.sh/g/16)
 
 | Nombre | Epitafio |
 | ----- | ------- |
@@ -78,7 +78,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | [happy30](https://osu.ppy.sh/u/27767) | BAT |
 | [HeatKai](https://osu.ppy.sh/u/332555) | Moderador del Chat |
 | [Hitoshirenu Shourai](https://osu.ppy.sh/u/602) | BAT |
-| [IamKwaN](https://osu.ppy.sh/u/1856463) | GMT |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | GMT and QAT |
 | [IceBeam](https://osu.ppy.sh/u/208440) | BAT |
 | [ignorethis](https://osu.ppy.sh/u/27343) | BAT |
 | [Inamaru](https://osu.ppy.sh/u/76382) | GMT |
