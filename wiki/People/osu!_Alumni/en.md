@@ -34,7 +34,6 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Charles445](https://osu.ppy.sh/u/85000) | GMT |
 | [CheeseWarlock](https://osu.ppy.sh/u/9072) | BAT |
 | [Chewin](https://osu.ppy.sh/u/617323) | BAT |
-| [CLSW](https://osu.ppy.sh/u/531253) | QAT |
 | [Colin Hou](https://osu.ppy.sh/u/196614) | BAT |
 | [CXu](https://osu.ppy.sh/u/84841) | BAT |
 | [Cyclohexane](https://osu.ppy.sh/u/116078) | GMT |
@@ -119,11 +118,11 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [machol30](https://osu.ppy.sh/u/5772) | BAT |
 | [Maeglwn](https://osu.ppy.sh/u/2440936) | GMT |
 | [Mafiamaster](https://osu.ppy.sh/u/17695) | BAT |
-| [Makar](https://osu.ppy.sh/u/686389) | GMT |
-| [mancuso_JM_](https://osu.ppy.sh/u/521568) | GMT |
+| [Makar](https://osu.ppy.sh/u/686389) | GMT |  
 | [mattyu007](https://osu.ppy.sh/u/4934) | BAT |
 | [MaxwellDemon](https://osu.ppy.sh/u/4254) | BAT |
 | [Melophobia](https://osu.ppy.sh/u/1077845) | BAT |
+| [Minato Yukina](https://osu.ppy.sh/u/531253) | QAT |
 | [minyeob](https://osu.ppy.sh/u/9207) | BAT |
 | [MMzz](https://osu.ppy.sh/u/128993) | QAT |
 | [Mogsworth](https://osu.ppy.sh/u/4018) | BAT |
