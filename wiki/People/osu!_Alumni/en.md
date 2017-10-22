@@ -79,6 +79,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [happy30](https://osu.ppy.sh/u/27767) | BAT |
 | [HeatKai](https://osu.ppy.sh/u/332555) | Chat Moderator |
 | [Hitoshirenu Shourai](https://osu.ppy.sh/u/602) | BAT |
+| [IamKwaN](https://osu.ppy.sh/u/1856463) | GMT |
 | [IceBeam](https://osu.ppy.sh/u/208440) | BAT |
 | [ignorethis](https://osu.ppy.sh/u/27343) | BAT |
 | [Inamaru](https://osu.ppy.sh/u/76382) | GMT |
@@ -130,6 +131,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [mrtn](https://osu.ppy.sh/u/7013) | BAT |
 | [mtmcl](https://osu.ppy.sh/u/5960) | BAT |
 | [Mystyk](https://osu.ppy.sh/u/930165) | Chat Moderator |
+| [n0ah](https://osu.ppy.sh/u/3086393) | GMT |
 | [narakucrimson](https://osu.ppy.sh/u/287468) | BAT |
 | [NatsumeRin](https://osu.ppy.sh/u/151679) | BAT |
 | [nekodex](https://osu.ppy.sh/u/102) | BAT |
@@ -143,6 +145,7 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Orkel](https://osu.ppy.sh/u/39385) | Chat Moderator |
 | [Osu Tatakae Ouendan](https://osu.ppy.sh/u/594210) | GMT |
 | [Pasonia](https://osu.ppy.sh/u/43345) | BAT |
+| [Pereira006](https://osu.ppy.sh/u/537344) | GMT |
 | [Pokie](https://osu.ppy.sh/u/207340) | BAT |
 | [popner](https://osu.ppy.sh/u/759860) | BAT |
 | [Princess](https://osu.ppy.sh/u/3480) | BAT |
@@ -161,11 +164,13 @@ Link to [user group page](https://osu.ppy.sh/g/16)
 | [Shinde](https://osu.ppy.sh/u/103282) | MAT |
 | [Shinxyn](https://osu.ppy.sh/u/13996) | BAT |
 | [Sinistro](https://osu.ppy.sh/u/5530) | GMT |
+| [Shockwave](https://osu.ppy.sh/u/251631) | GMT |
 | [Skyripper](https://osu.ppy.sh/u/31803) | GMT |
 | [spboxer3](https://osu.ppy.sh/u/197974) | GMT |
 | [Spectator](https://osu.ppy.sh/u/702598) | GMT |
 | [Starrodkirby86](https://osu.ppy.sh/u/410) | BAT |
 | [Starry-](https://osu.ppy.sh/u/2166199) | QAT |
+| [Stefan](https://osu.ppy.sh/u/626907) | GMT |
 | [Strawberry](https://osu.ppy.sh/u/519978) | BAT |
 | [Sushi](https://osu.ppy.sh/u/43108) | BAT |
 | [Suzully](https://osu.ppy.sh/u/431791) | BAT |
